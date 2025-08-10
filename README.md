@@ -1,13 +1,24 @@
-<h1 align="center">Olá 👋, sou Jaciel Castro</h1>
-<h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>
+z<h1 align="center">Olá 👋, sou Jaciel Castro</h1>
+<h3 align="center">Um desenvolvedor frontend,blackend e apaixonado por tecnologia! </h3>
 
 - 🌱 Atualmente estou aprendendo **javascript**
 
-- 📫 Como entrar em contato comigo **jacielcastro100@gmail.com**
+##
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-</p>
 
-<h3 align="left" >Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </ p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacielcastro&show_icons=true&theme=ocean_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacielcastro&hide_progress=true&theme=ocean_dark)
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="jaciel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jaciel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jaciel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  ##
+
+  <a href="https://instagram.com/jacielcastr0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jaciel1830@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+</div>
