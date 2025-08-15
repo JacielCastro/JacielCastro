@@ -2,8 +2,8 @@
 <h3 align="center">Um desenvolvedor frontend,blackend e apaixonado por tecnologia! </h3>
 
 - 📚 Atualmente estou aprendendo **javascript e python**
-- 📧 Meu e-mail pra contato **jacielcastro100@gmail.com**
--   
+- 📧 E-mail para contato **jacielcastro100@gmail.com**
+   
 ##
 
 
@@ -14,6 +14,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="jaciel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jaciel-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jaciel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jaciel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
