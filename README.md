@@ -1,8 +1,9 @@
 <h1 align="center">Olá 👋, sou Jaciel Castro</h1>
 <h3 align="center">Um desenvolvedor frontend,blackend e apaixonado por tecnologia! </h3>
 
-- 🌱 Atualmente estou aprendendo **javascript**
-
+- 📚 Atualmente estou aprendendo **javascript e python**
+- 📧 Meu e-mail pra contato **jacielcastro100@gmail.com**
+-   
 ##
 
 
