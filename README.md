@@ -7,8 +7,8 @@
 ##
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacielcastro&show_icons=true&theme=ocean_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacielcastro&hide_progress=true&theme=ocean_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacielcastro&show_icons=true&theme=noctis_minimus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacielcastro&layout=compact&theme=noctis_minimus)
 
 ##
 
