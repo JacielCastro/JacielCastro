@@ -8,8 +8,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacielcastro&show_icons=true&theme=noctis_minimus)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacielcastro&layout=compact&theme=noctis_minimus)
-
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jacielcastro&hide=contribs&layout=compact&theme=noctis_minimus)
 ##
 
 <div style="display: inline_block"><br>
