@@ -7,8 +7,8 @@
 ##
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacielcastro&show_icons=true&theme=noctis_minimus)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jacielcastro&hide=contribs&layout=compact&theme=noctis_minimus)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=noctis_minimus)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&hide=contribs&layout=compact&theme=noctis_minimus)
 ##
 
 <div style="display: inline_block"><br>
