@@ -22,10 +22,10 @@
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/JacielCastro/NOME-DO-REPOSITORIO">
+  <a href="https://github.com/JacielCastro/UC04_JS">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC04_JS&theme=noctis_minimus" />
   </a>
-  <a href="https://github.com/JacielCastro/OUTRO-REPOSITORIO">
+  <a href="https://github.com/JacielCastro/UC07-WEB">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC07-WEB&theme=noctis_minimus" />
   </a>
 </div>
