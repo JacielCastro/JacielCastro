@@ -23,10 +23,10 @@
 
 <div align="center">
   <a href="https://github.com/JacielCastro/NOME-DO-REPOSITORIO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=NOME-DO-REPOSITORIO&theme=noctis_minimus" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC04_JS&theme=noctis_minimus" />
   </a>
   <a href="https://github.com/JacielCastro/OUTRO-REPOSITORIO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=OUTRO-REPOSITORIO&theme=noctis_minimus" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC07-WEB&theme=noctis_minimus" />
   </a>
 </div>
 
