@@ -1,49 +1,61 @@
-<h1 align="center">Olá 👋, sou Jaciel Castro</h1>
-<h3 align="center">Um desenvolvedor, backend e apaixonado por tecnologia! </h3>
+<h1 align="center">👨‍💻 Olá, eu sou Jaciel Castro</h1>
+<h3 align="center">Desenvolvedor Backend em formação | Apaixonado por tecnologia 🚀</h3>
 
-<p align="left">
-  📚 Atualmente estou aprendendo **JavaScript, Python e MySQL** <br>
-  📧 E-mail para contato **jacielcastro100@gmail.com**
-</p>
+---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🙋‍♂️ Sobre mim
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</div>
+- 🎓 Estudando: **JavaScript | Python | MySQL**
+- 💡 Interesse em desenvolvimento backend e aplicações web
+- 📩 Contato: **jacielcastro100@gmail.com**
 
-## 🚀 Minhas Estatísticas no GitHub
+---
+
+## 🧰 Tecnologias que utilizo
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&layout=compact&theme=noctis_minimus"/>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 </div>
 
-## 🚀 Projetos em Destaque
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+## 🌟 Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/JacielCastro/UC04_JS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC04_JS&theme=noctis_minimus" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC04_JS&theme=tokyonight"/>
   </a>
   <a href="https://github.com/JacielCastro/UC07-WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC07-WEB&theme=noctis_minimus" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC07-WEB&theme=tokyonight"/>
   </a>
 </div>
 
-## 📫 Contato
+---
+
+## 🌐 Conecte-se comigo
 
 <div align="center">
   <a href="https://instagram.com/jaciel_castr0" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:jacielcastro100@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+
+---
+
+⭐ *Sempre buscando aprender mais e evoluir como desenvolvedor!*
