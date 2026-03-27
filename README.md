@@ -19,8 +19,11 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=noctis_minimus" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&hide=contribs&layout=compact&theme=noctis_minimus" alt="Top Langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=noctis_minimus" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&hide=contribs&layout=compact&theme=noctis_minimus" alt="Principais idiomas" />
 </p>
 
 ## 🚀 Projetos em Destaque
