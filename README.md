@@ -16,15 +16,15 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </div>
 
-## 📊 Estatísticas
+## 🚀 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=noctis_minimus" alt="Estatísticas do GitHub" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&hide=contribs&layout=compact&theme=noctis_minimus" alt="Principais idiomas" />
-</p>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&layout=compact&theme=noctis_minimus"/>
+
+</div>
 
 ## 🚀 Projetos em Destaque
 
