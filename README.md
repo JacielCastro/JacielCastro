@@ -26,8 +26,8 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JacielCastro&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JacielCastro&layout=compact&theme=dracula"/>
 </div>
 
 ---
@@ -36,10 +36,10 @@
 
 <div align="center">
   <a href="https://github.com/JacielCastro/UC04_JS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC04_JS&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC04_JS&theme=dracula"/>
   </a>
   <a href="https://github.com/JacielCastro/UC07-WEB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC07-WEB&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JacielCastro&repo=UC07-WEB&theme=dracula"/>
   </a>
 </div>
 
