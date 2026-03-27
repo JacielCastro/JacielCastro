@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, sou Jaciel Castro</h1>
-<h3 align="center">Um desenvolvedor frontend, backend e apaixonado por tecnologia! </h3>
+<h3 align="center">Um desenvolvedor backend e apaixonado por tecnologia! </h3>
 
 - 📚 Atualmente estou aprendendo **JavaScript, Python e MySQL**
 - 📧 E-mail para contato **jacielcastro100@gmail.com**
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img align="center" alt="jaciel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jaciel-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="jaciel-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
